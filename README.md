@@ -13,7 +13,7 @@ Saiba mais em:
 - [How Large Language Models Work](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
 - [What are Large Language Models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E&t=1s&pp=ygULd2hhdCBpcyBsbG0%3D)
 
-## Aplicações
+## Cursos (6 horas)
 - [Understanding and Applying Text Embeddings](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/)
 - [Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
 - [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
