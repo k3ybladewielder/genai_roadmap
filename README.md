@@ -2,16 +2,11 @@
 ## O que são modelos generativos
 Modelos generativos são uma classe de algoritmos em aprendizado de máquina que aprendem a gerar **novas** amostras de dados que são semelhantes às amostras de treinamento. Eles tentam modelar a distribuição dos dados reais para criar novos exemplos que seguem a mesma distribuição.
 
-## Diferença entre Modelos Discriminativos e Generativos
-1. **Modelos Discriminativos:**
-   - **Objetivo:** Modelar a fronteira entre classes. Eles aprendem a distinguir entre diferentes categorias com base nos dados de entrada.
-   - **Exemplo:** Um classificador que aprende a distinguir entre imagens de gatos e cães.
-   - **Exemplos de Modelos:** Regressão logística, Máquinas de Vetores de Suporte (SVM), Redes Neurais.
+### Aprendizado de Máquina vs Modelos Generativos
 
-2. **Modelos Generativos:**
-   - **Objetivo:** Modelar a distribuição dos dados em cada classe. Eles aprendem a gerar amostras novas que são semelhantes às amostras de treinamento.
-   - **Exemplo:** Um modelo que gera novas imagens de gatos ou cães a partir de exemplos de treinamento.
-   - **Exemplos de Modelos:** Redes Adversariais Generativas (GANs), Modelos de Mistura de Gaussiana (GMMs), Modelos de Markov Ocultos (HMMs), Modelos de Difusão.
+O Modelos tradicionais de ML geralmente têm como objetivo **prever** rótulos de classe ou valores contínuos com base em dados de entrada. Eles se concentram em **aprender a relação entre as características dos dados e as saídas desejadas**. A maioria dos modelos tradicionais é treinada usando **dados rotulados**, onde o modelo aprende a partir de exemplos com entradas e saídas conhecidas. Alguns exemplos são **Regressão Linear, Máquinas de Vetores de Suporte (SVM), Redes Neurais Feedforward, Árvores de Decisão, K-Nearest Neighbors (KNN)**, etc. Os modelos tradicionais são **treinados para minimizar a diferença (erro)** entre as previsões do modelo e os valores reais nos dados de treinamento (por exemplo, minimizando a perda). Estes modelos são projetados para fazer previsões ou classificações com base nos dados reais e não geram novos dados.
+
+Os **modelos de inteligência artificial generativa ("Gen AI")** são projetados para **gerar novos dados** que imitam a distribuição dos dados de treinamento. Eles não se concentram em **prever ou classificar**, mas em criar novas amostras realistas. Muitos modelos Gen AI são treinados usando **técnicas não supervisionadas ou semi-supervisionadas**, onde não é necessário que os dados de treinamento sejam rotulados. Exemplos incluem **Redes Adversariais Generativas (GANs), Modelos de Difusão, Modelos Autoregressivos (como GPT), Autoencoders Variacionais (VAEs)**, etc. Esses modelos **tentam aprender a distribuição dos dados** subjacente para gerar novas amostras semelhantes às do conjunto de treinamento. Eles utilizam métodos como **adversariação (em GANs)** ou **otimização da função de perda baseada na geração de dados (em VAEs)**. Em vez de simplesmente **fazer previsões**, os modelos Gen AI podem **gerar novos textos, imagens, músicas ou outros tipos de dados** a partir de uma distribuição aprendida.
 
 Saiba mais em:
 - [AI, Machine Learning, Deep Learning and Generative AI Explained](https://www.youtube.com/watch?v=qYNweeDHiyU)
