@@ -14,7 +14,12 @@ Saiba mais em:
 - [What are Large Language Models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E&t=1s&pp=ygULd2hhdCBpcyBsbG0%3D)
 
 ## Aplicações
-- ipsum lorem
+- [Understanding and Applying Text Embeddings](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/)
+- [Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
+- [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+- [Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+- [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
 - ipsum lorem
 - ipsum lorem
 - ipsum lorem
