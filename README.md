@@ -27,4 +27,3 @@ Saiba mais em:
 - [The Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [VectorHub](https://hub.superlinked.com/)
-- Datacamp Spacy Cheatsheet [(blog post)](https://www.datacamp.com/cheat-sheet/spacy-cheat-sheet-advanced-nlp-in-python) and [(pdf)](spacy_cheatsheet.pdf)
