@@ -1,4 +1,4 @@
-# Generative AI Applications Roadpmaps 🗝️
+# Generative AI Applications Roadpmap 🗝️
 ## O que são modelos generativos
 Modelos generativos são uma classe de algoritmos em aprendizado de máquina que aprendem a gerar **novas** amostras de dados que são semelhantes às amostras de treinamento. Eles tentam modelar a distribuição dos dados reais para criar novos exemplos que seguem a mesma distribuição.
 
@@ -20,9 +20,6 @@ Saiba mais em:
 - [Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 - [Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 - [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
-- ipsum lorem
-- ipsum lorem
-- ipsum lorem
 
 ## Resources 🧰
 - [LLM Course](https://github.com/mlabonne/llm-course)
